@@ -9,3 +9,7 @@
 
 ## Coontainer content gaps
 - 20px
+
+## Btns Sizing/Radius
+- Corner radius: 100
+- Padding: 10, 20, 10, 20

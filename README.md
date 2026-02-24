@@ -8,10 +8,13 @@
 - Mobile: 40, 20, 40, 20
 
 ## Coontainer content gaps
-- 25px
+- 20px
 
 ## Btns Sizing/Radius
 - Corner radius: 100
 - Padding: 10, 20, 10, 20
 ### Btn Groups spacomg
 - 10 10
+## Breadcrumb margins
+- Desktop 4 Tablet: 40 bottom
+- Mobile: 20 bottom

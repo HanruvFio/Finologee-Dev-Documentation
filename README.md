@@ -30,3 +30,5 @@
 
 ## Trusted By Logos 
 - Fade In (normal) > Offset 50ms
+# About Image
+- Slide in Right (normal)

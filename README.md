@@ -27,3 +27,6 @@
 
 ## Flip Card Carousel 
 - On Widget Slide in Right (normal)
+
+## Trusted By Logos 
+- Fade In (normal) > Offset 50ms

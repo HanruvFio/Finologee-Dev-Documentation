@@ -24,3 +24,6 @@
 
 ## Flip Card Carousel 
 - On Widget Slide in Right (normal)
+
+# Backgrounds
+## Blurred box background = #CDCACB0D
